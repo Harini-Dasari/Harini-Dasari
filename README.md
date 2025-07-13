@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Harini 👋
 
-<!--
-**Harini-Dasari/Harini-Dasari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a passionate developer and continuous learner.  
+🌱 Currently working on **Full Stack Development** and preparing for **GATE (CS/IT)**.  
+💡 I enjoy building websites, exploring new tech, and solving coding problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- 💻 Languages: C, Java, Python, JavaScript  
+- 🌐 Web: HTML, CSS, Bootstrap  
+- ⚛️ Frontend: React (Basics)  
+- 🖥️ Backend: Node.js (Basics)  
+- 🔧 Tools: Git, VS Code  
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn: [linkedin.com/in/harini-d-a79965305](https://www.linkedin.com/in/harini-d-a79965305)
+
+---
+
+*“Code. Learn. Repeat.”*
