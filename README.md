@@ -12,6 +12,8 @@
 - 🌐 Web: HTML, CSS, Bootstrap  
 - ⚛️ Frontend: React (Basics)  
 - 🖥️ Backend: Node.js (Basics)  
+- 📊 Data & ML: NumPy, Pandas, Supervised & Unsupervised Learning  
+  - 📈 Regression Models: Linear, Multiple, Logistic  
 - 🔧 Tools: Git, VS Code  
 
 ---
