@@ -21,7 +21,14 @@
 
 ## 💼 Projects
 
-- 🌄 [**Pack Your Bags**](https://harini-dasari.github.io/Pack_Your_Bags): A travel-themed website showcasing Indian heritage and hill stations using HTML, CSS, and Bootstrap.
+- 🌄 [**Pack Your Bags**](https://harini-dasari.github.io/Pack_Your_Bags)  
+  A travel-themed website showcasing Indian heritage and hill stations using HTML, CSS, and Bootstrap.  
+  🔗 **Live Demo:** [harini-dasari.github.io/Pack_Your_Bags](https://harini-dasari.github.io/Pack_Your_Bags)  
+  🛠️ Currently updating with features like:
+  - Booking system  
+  - Travel guidance  
+  - Enhanced UI & more...
+
 
 ---
 
