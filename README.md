@@ -19,6 +19,12 @@
 
 ---
 
+## 💼 Projects
+
+- 🌄 [**Pack Your Bags**](https://harini-dasari.github.io/Pack_Your_Bags): A travel-themed website showcasing Indian heritage and hill stations using HTML, CSS, and Bootstrap.
+
+---
+
 ## 📫 Contact
 
 - 💼 LinkedIn: [linkedin.com/in/harini-d-a79965305](https://www.linkedin.com/in/harini-d-a79965305)
