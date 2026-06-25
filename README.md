@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=050816&fontColor=7c5cff&height=300&section=header&text=Harini%20Dasari&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Building%20Intelligent%20Real-World%20Applications&descAlignY=51&descSize=20" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=050816&fontColor=ffffff&height=300&section=header&text=Harini%20Dasari&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Building%20Intelligent%20Real-World%20Applications&descAlignY=51&descSize=20" width="100%">
 </div>
 
 <!-- Typing Animation -->
