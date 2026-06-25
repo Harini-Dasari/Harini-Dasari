@@ -1,7 +1,7 @@
 <!-- Header Banner -->
 <div align="center">
   <h1>Harini Dasari</h1>
-  <p><b>Building Intelligent Real-World Applications</b></p>
+  <p><b>Turning Ideas into Impactful Software</b></p>
 </div>
 
 <!-- Typing Animation -->
