@@ -113,13 +113,14 @@
 
 <h3 align="center">ACHIEVEMENTS</h3>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Winner-Aadhya_Hackathon_2K26-FFD700?style=for-the-badge&logo=codeforces&logoColor=black" />
-  <img src="https://img.shields.io/badge/1st_Prize-Police_Hackathon-FFD700?style=for-the-badge&logo=codeforces&logoColor=black" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Shortlisted-Smart_India_Hackathon-4CAF50?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  <img src="https://img.shields.io/badge/Top_10-Everest_Engineering_Hackathon-2196F3?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</div>
+<ul>
+  <li>Qualified <b>GATE 2026</b> (Computer Science and Engineering).</li>
+  <li>Won <b>First Prize</b> at Police Hackathon for developing "Praja FIR", a digital FIR filing system.</li>
+  <li>Presented <b>"LifeBand Maa"</b> at PitchTank, Blueprint 6.0, and Techzite 2.0.</li>
+  <li>Won <b>Aadhya Hackathon 2K26</b> among 60+ teams for "SymptomScan AI".</li>
+  <li>Secured <b>Top 10 position</b> at Everest Engineering Hackathon among 100+ teams.</li>
+  <li>Shortlisted for <b>Smart India Hackathon</b>.</li>
+</ul>
 
 ---
 
