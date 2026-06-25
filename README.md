@@ -30,8 +30,8 @@
 
 <br>
 
-<p>I am a passionate developer who loves building web applications and AI tools that solve real-world problems. I am currently pursuing my 4th year of B.Tech in Computer Science and Engineering at <b>RGUKT RK Valley</b>.</p>
-<p>I enjoy working on the complete process of creating an application—from designing what users see, to building the database and adding smart AI features. I love turning ideas into fully working products!</p>
+<p>I am a passionate developer dedicated to building web applications and AI tools that solve real-world problems. I am currently pursuing my 4th year of B.Tech in Computer Science and Engineering at <b>RGUKT RK Valley</b>.</p>
+<p>My expertise covers the complete process of creating an application—from designing user interfaces, to building databases and integrating smart AI features. I am driven by the goal of turning ideas into fully working products.</p>
 
 ---
 
