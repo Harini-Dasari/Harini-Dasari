@@ -43,36 +43,31 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>💻 Programming Languages</h4>
+      <h4>Programming Languages</h4>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 AI & Machine Learning</h4>
+      <h4>AI & Machine Learning</h4>
       <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikit-learn&logoColor=white" />
       <img src="https://img.shields.io/badge/Deep%20Learning-FF9900?style=flat&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/Generative%20AI-00A67E?style=flat&logo=openai&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🌐 Web Dev & Databases</h4>
+      <h4>Web Dev & Databases</h4>
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h4>🛠 Developer Tools</h4>
+      <h4>Developer Tools</h4>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
     </td>
   </tr>
 </table>
