@@ -22,13 +22,16 @@
 <br>
 
 <!-- Main Content -->
-<h3>ABOUT ME</h3>
-<div>
-  <img src="coding-girl.png" align="right" width="40%" alt="Coding Girl Animation">
-  <p>I am a passionate developer who loves building web applications and AI tools that solve real-world problems. I am currently pursuing my 4th year of B.Tech in Computer Science and Engineering at <b>RGUKT RK Valley</b>.</p>
-  <p>I enjoy working on the complete process of creating an application—from designing what users see, to building the database and adding smart AI features. I love turning ideas into fully working products!</p>
+<h3 align="center">ABOUT ME</h3>
+
+<div align="center">
+  <img src="coding-girl.png" alt="Coding Girl Animation" width="400">
 </div>
-<br clear="both">
+
+<br>
+
+<p>I am a passionate developer who loves building web applications and AI tools that solve real-world problems. I am currently pursuing my 4th year of B.Tech in Computer Science and Engineering at <b>RGUKT RK Valley</b>.</p>
+<p>I enjoy working on the complete process of creating an application—from designing what users see, to building the database and adding smart AI features. I love turning ideas into fully working products!</p>
 
 ---
 
