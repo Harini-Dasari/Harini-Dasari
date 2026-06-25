@@ -100,9 +100,7 @@ A full-stack digital governance platform designed to connect citizens, volunteer
 <ul>
   <li>Qualified <b>GATE 2026</b> (Computer Science and Engineering).</li>
   <li>Won <b>First Prize</b> at Police Hackathon for developing "Praja FIR", a digital FIR filing system.</li>
-  <li>Presented <b>"LifeBand Maa"</b> at PitchTank, Blueprint 6.0, and Techzite 2.0.</li>
   <li>Won <b>Aadhya Hackathon 2K26</b> among 60+ teams for "SymptomScan AI".</li>
   <li>Secured <b>Top 10 position</b> at Everest Engineering Hackathon among 100+ teams.</li>
-  <li>Shortlisted for <b>Smart India Hackathon</b>.</li>
 </ul>
 
