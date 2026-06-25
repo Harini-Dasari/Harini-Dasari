@@ -73,23 +73,23 @@
 
 <h3 align="center">FEATURED PROJECTS</h3>
 
-### 🏥 LifeBand Maa
+### LifeBand Maa
 **AI-Based Maternal Health Monitoring System**
 A wearable AI solution that continuously monitors vital signs like blood pressure and ECG to keep pregnant women safe. It uses anomaly detection to instantly alert doctors and families to potential health risks through a remote live dashboard.
 
-### 🩺 AI for Rural Health
+### AI for Rural Health
 **Healthcare Risk Prediction Platform**
 An intelligent platform bridging the healthcare gap in rural communities by connecting patients with doctors through ASHA workers. It analyzes symptoms to predict health severity and recommends the best course of action.
 
-### 🎙️ Praja FIR
+### Praja FIR
 **Voice-Based Digital FIR Filing System**
 A multilingual AI platform that revolutionizes complaint filing by allowing users to submit FIRs simply using their voice. It uses speech recognition and NLP to convert native spoken words into structured digital documents.
 
-### 🗺️ Safe Yathra
+### Safe Yathra
 **AI-Based Route Safety Analysis System**
 A smart travel companion that visualizes route safety levels directly on a map using machine learning. It classifies areas into safety zones based on location data and highlights essential nearby services for safe travel.
 
-### 🏛️ Village Governance Platform
+### Village Governance Platform
 **Smart Digital Governance System**
 A full-stack digital governance platform designed to connect citizens, volunteers, officials, and administrators. It streamlines complaint management, scheme access, and citizen feedback to improve village governance.
 
