@@ -1,6 +1,7 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=050816&fontColor=ffffff&height=300&section=header&text=Harini%20Dasari&fontSize=80&fontAlignY=38&desc=Building%20Intelligent%20Real-World%20Applications&descAlignY=51&descSize=20" width="100%">
+  <h1>Harini Dasari</h1>
+  <p><b>Building Intelligent Real-World Applications</b></p>
 </div>
 
 <!-- Typing Animation -->
@@ -19,16 +20,12 @@
   <a href="https://github.com/Harini-Dasari"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
 
-<br>
-
 <!-- Main Content -->
 <h3 align="center">ABOUT ME</h3>
 
 <div align="center">
   <img src="coding-girl.png" alt="Coding Girl Animation" width="400">
 </div>
-
-<br>
 
 <p>I am a passionate developer dedicated to building web applications and AI tools that solve real-world problems. I am currently pursuing my 4th year of B.Tech in Computer Science and Engineering at <b>RGUKT RK Valley</b>.</p>
 <p>My expertise covers the complete process of creating an application—from designing user interfaces, to building databases and integrating smart AI features. I am driven by the goal of turning ideas into fully working products.</p>
