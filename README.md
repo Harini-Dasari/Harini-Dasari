@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <h1>Harini Dasari</h1>
+  <h1>Hi, I'm Harini Dasari</h1>
   <p><b>Turning Ideas into Impactful Solutions</b></p>
 </div>
 
