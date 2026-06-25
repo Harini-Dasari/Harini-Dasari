@@ -28,10 +28,10 @@
       <h3>🚀 About Me</h3>
       <p>I build <b>scalable full-stack applications</b> and <b>AI-powered systems</b> that solve real-world problems. Currently in my final year of Computer Science and Engineering at <b>RGUKT RK Valley</b>.</p>
       <p>My core strength lies in building complete <b>end-to-end products</b>—from frontend and backend APIs to databases, AI/ML models, and deployment.</p>
-      <p><strong>When I'm not coding:</strong> I'm exploring new tech trends, participating in hackathons, and finding innovative ways to solve everyday problems.</p>
+      <p><strong>Professional Focus:</strong> Driven by a passion for continuous learning, I thrive in fast-paced environments, actively compete in hackathons, and architect intelligent solutions that deliver meaningful impact.</p>
     </td>
     <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif" alt="Coding GIF" width="80%">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Tech Animation" width="90%">
     </td>
   </tr>
 </table>
