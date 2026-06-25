@@ -100,6 +100,19 @@ Project-S (SmartStudy) is a web-based productivity platform designed to help stu
 
 ---
 
+<h3 align="center">EXPERIENCE</h3>
+
+### Deep Learning Research Intern
+**IIIT Sri City** | *May 2026 – Present*
+<ul>
+  <li>Exploring deep learning research focused on image segmentation using diffusion models.</li>
+  <li>Studying and analyzing recent research papers in diffusion-based computer vision.</li>
+  <li>Understanding model architectures, segmentation techniques, and evaluation metrics.</li>
+  <li>Conducting literature review and comparative analysis of state-of-the-art approaches.</li>
+</ul>
+
+---
+
 <h3 align="center">ACHIEVEMENTS</h3>
 
 <ul>
