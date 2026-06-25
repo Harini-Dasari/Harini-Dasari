@@ -22,19 +22,13 @@
 <br>
 
 <!-- Main Content -->
-<table align="center" width="100%">
-  <tr>
-    <td width="60%">
-      <h3>ABOUT ME</h3>
-      <p>I build <b>scalable full-stack applications</b> and <b>AI-powered systems</b> that solve real-world problems. Currently in my final year of Computer Science and Engineering at <b>RGUKT RK Valley</b>.</p>
-      <p>My core strength lies in building complete <b>end-to-end products</b>—from frontend and backend APIs to databases, AI/ML models, and deployment.</p>
-      <p><strong>Professional Focus:</strong> Driven by a passion for continuous learning, I thrive in fast-paced environments, actively compete in hackathons, and architect intelligent solutions that deliver meaningful impact.</p>
-    </td>
-    <td width="40%" align="center">
-      <img src="coding-girl.png" alt="Coding Girl Animation" width="100%">
-    </td>
-  </tr>
-</table>
+<h3>ABOUT ME</h3>
+<div>
+  <img src="coding-girl.png" align="right" width="40%" alt="Coding Girl Animation">
+  <p>I am a passionate developer who loves building web applications and AI tools that solve real-world problems. I am currently pursuing my 4th year of B.Tech in Computer Science and Engineering at <b>RGUKT RK Valley</b>.</p>
+  <p>I enjoy working on the complete process of creating an application—from designing what users see, to building the database and adding smart AI features. I love turning ideas into fully working products!</p>
+</div>
+<br clear="both">
 
 ---
 
