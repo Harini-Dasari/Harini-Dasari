@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1d4ed8,4338ca,7e22ce&fontColor=ffffff&height=300&section=header&text=Harini%20Dasari&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Building%20Intelligent%20Real-World%20Applications&descAlignY=51&descSize=20" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0c10&fontColor=45f3ff&height=300&section=header&text=Harini%20Dasari&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Building%20Intelligent%20Real-World%20Applications&descAlignY=51&descSize=20" width="100%">
 </div>
 
 <!-- Typing Animation -->
@@ -131,5 +131,5 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1d4ed8,4338ca,7e22ce&fontColor=ffffff&height=100&text=Let's%20build%20something%20amazing%20together!&fontSize=20&fontAlignY=50" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0c10&fontColor=45f3ff&height=100&text=Let's%20build%20something%20amazing%20together!&fontSize=20&fontAlignY=50" width="100%">
 </div>
