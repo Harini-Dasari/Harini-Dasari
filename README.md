@@ -80,28 +80,28 @@
   <table width="100%">
     <tr>
       <td width="50%">
-        <h4><a href="https://github.com/Harini-Dasari">🩺 LifeBand Maa</a></h4>
-        <p><strong>AI-Based Maternal Health Monitoring System</strong></p>
+        <b><a href="https://github.com/Harini-Dasari/lifeband-maa-ai">LifeBand Maa</a></b><br>
+        <b>AI-Based Maternal Health Monitoring System</b><br><br>
         <p>An intelligent healthcare system for monitoring maternal health, detecting abnormalities, and improving healthcare accessibility.</p>
         <p><i>Technologies:</i> Python, ML, React, Node.js</p>
       </td>
       <td width="50%">
-        <h4><a href="https://github.com/Harini-Dasari">🎙️ Praja FIR</a></h4>
-        <p><strong>Voice-Based Digital FIR Filing System</strong></p>
+        <b><a href="https://github.com/Harini-Dasari/praja-fir">Praja FIR</a></b><br>
+        <b>Voice-Based Digital FIR Filing System</b><br><br>
         <p>An AI-powered system allowing users to file FIRs using voice interaction in regional languages.</p>
         <p><i>Technologies:</i> GenAI, Speech-to-Text, React</p>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h4><a href="https://github.com/Harini-Dasari">🔍 SymptomScan AI</a></h4>
-        <p><strong>AI Symptom Analysis & Risk Prediction</strong></p>
+        <b><a href="https://github.com/Harini-Dasari/symptomscan-ai">SymptomScan AI</a></b><br>
+        <b>AI Symptom Analysis & Risk Prediction</b><br><br>
         <p>An intelligent system that predicts health risks based on symptom analysis and medical data.</p>
         <p><i>Technologies:</i> Deep Learning, Python, MongoDB</p>
       </td>
       <td width="50%">
-        <h4><a href="https://github.com/Harini-Dasari">🏛️ Village Governance Platform</a></h4>
-        <p><strong>Digital Governance System</strong></p>
+        <b><a href="https://github.com/Harini-Dasari/village-governance">Village Governance Platform</a></b><br>
+        <b>Digital Governance System</b><br><br>
         <p>A unified digital platform connecting citizens, officials, and administrators for efficient service management.</p>
         <p><i>Technologies:</i> React, Node.js, MySQL</p>
       </td>
