@@ -95,7 +95,7 @@ An intelligent platform bridging the healthcare gap in rural communities by conn
 A wearable AI solution that continuously monitors vital signs like blood pressure and ECG to keep pregnant women safe. It uses anomaly detection to instantly alert doctors and families to potential health risks through a remote live dashboard.
 
 ### Project-S (SmartStudy)
-**Smart Academic Companion for Students 🎓**
+**Smart Academic Companion for Students**
 Project-S (SmartStudy) is a web-based productivity platform designed to help students manage their academic life efficiently while encouraging consistent learning and personal growth. It brings together essential academic tools into one simple, distraction-free interface — making studying more organized, engaging, and effective.
 
 ---
