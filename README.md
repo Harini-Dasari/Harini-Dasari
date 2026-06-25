@@ -122,19 +122,3 @@
   <li>Shortlisted for <b>Smart India Hackathon</b>.</li>
 </ul>
 
----
-
-<h3 align="center">GITHUB ANALYTICS</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harini-Dasari&show_icons=true&theme=radical&hide_border=true" alt="Harini's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harini-Dasari&theme=radical&hide_border=true" alt="Harini's GitHub Streak" width="48%" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harini-Dasari&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0c10&fontColor=45f3ff&height=100&text=Let's%20build%20something%20amazing%20together!&fontSize=20&fontAlignY=50" width="100%">
-</div>
