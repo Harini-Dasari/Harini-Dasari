@@ -31,7 +31,7 @@
       <p><strong>Professional Focus:</strong> Driven by a passion for continuous learning, I thrive in fast-paced environments, actively compete in hackathons, and architect intelligent solutions that deliver meaningful impact.</p>
     </td>
     <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist.png" alt="Female Developer" width="150">
+      <img src="https://media.giphy.com/media/WUlplcMpM1Xam124mR/giphy.gif" alt="Coding Girl Animation" width="90%">
     </td>
   </tr>
 </table>
