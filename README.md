@@ -1,12 +1,12 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0c10&fontColor=45f3ff&height=300&section=header&text=Harini%20Dasari&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Building%20Intelligent%20Real-World%20Applications&descAlignY=51&descSize=20" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=050816&fontColor=7c5cff&height=300&section=header&text=Harini%20Dasari&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Building%20Intelligent%20Real-World%20Applications&descAlignY=51&descSize=20" width="100%">
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://github.com/Harini-Dasari">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI%2FML+Engineer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7c5cff&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI%2FML+Engineer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
