@@ -27,7 +27,7 @@
   <img src="coding-girl.png" alt="Coding Girl Animation" width="400">
 </div>
 
-<p>I am a passionate developer dedicated to building web applications and AI tools that solve real-world problems. I am currently pursuing my 4th year of B.Tech in Computer Science and Engineering at <b>RGUKT RK Valley</b>.</p>
+<p>I am a passionate developer dedicated to building web applications and AI tools that solve real-world problems. I am currently pursuing my final year of B.Tech in Computer Science and Engineering at <b>RGUKT RK Valley</b>.</p>
 <p>My expertise covers the complete process of creating an application—from designing user interfaces, to building databases and integrating smart AI features. I am driven by the goal of turning ideas into fully working products.</p>
 
 ---
