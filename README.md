@@ -94,6 +94,10 @@ An intelligent platform bridging the healthcare gap in rural communities by conn
 **AI-Based Maternal Health Monitoring System**
 A wearable AI solution that continuously monitors vital signs like blood pressure and ECG to keep pregnant women safe. It uses anomaly detection to instantly alert doctors and families to potential health risks through a remote live dashboard.
 
+### Project-S (SmartStudy)
+**Smart Academic Companion for Students 🎓**
+Project-S (SmartStudy) is a web-based productivity platform designed to help students manage their academic life efficiently while encouraging consistent learning and personal growth. It brings together essential academic tools into one simple, distraction-free interface — making studying more organized, engaging, and effective.
+
 ---
 
 <h3 align="center">ACHIEVEMENTS</h3>
@@ -101,7 +105,8 @@ A wearable AI solution that continuously monitors vital signs like blood pressur
 <ul>
   <li>Qualified <b>GATE 2026</b> (Computer Science and Engineering).</li>
   <li>Won <b>First Prize</b> at Police Hackathon for developing "Praja FIR", a digital FIR filing system.</li>
-  <li>Won <b>Aadhya Hackathon 2K26</b> among 60+ teams for "AI for Rural Health".</li>
+  <li>Won <b>Aadhya Hackathon 2K26</b> among 60+ teams for "Symptom Scan AI".</li>
   <li>Secured <b>Top 10 position</b> at Everest Engineering Hackathon among 100+ teams.</li>
+  <li>Secured <b>Top 40 position</b> in SIH (Smart India Hackathon).</li>
 </ul>
 
