@@ -31,7 +31,7 @@
       <p><strong>Professional Focus:</strong> Driven by a passion for continuous learning, I thrive in fast-paced environments, actively compete in hackathons, and architect intelligent solutions that deliver meaningful impact.</p>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/WUlplcMpM1Xam124mR/giphy.gif" alt="Coding Girl Animation" width="90%">
+      <img src="coding-girl.png" alt="Coding Girl Animation" width="100%">
     </td>
   </tr>
 </table>
