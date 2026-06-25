@@ -80,30 +80,26 @@
   <table width="100%">
     <tr>
       <td width="50%">
-        <b><a href="https://github.com/Harini-Dasari/lifeband-maa-ai">LifeBand Maa</a></b><br>
+        <b>LifeBand Maa</b><br>
         <b>AI-Based Maternal Health Monitoring System</b><br><br>
         <p>An intelligent healthcare system for monitoring maternal health, detecting abnormalities, and improving healthcare accessibility.</p>
-        <p><i>Technologies:</i> Python, ML, React, Node.js</p>
       </td>
       <td width="50%">
-        <b><a href="https://github.com/Harini-Dasari/praja-fir">Praja FIR</a></b><br>
+        <b>Praja FIR</b><br>
         <b>Voice-Based Digital FIR Filing System</b><br><br>
         <p>An AI-powered system allowing users to file FIRs using voice interaction in regional languages.</p>
-        <p><i>Technologies:</i> GenAI, Speech-to-Text, React</p>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <b><a href="https://github.com/Harini-Dasari/symptomscan-ai">SymptomScan AI</a></b><br>
+        <b>SymptomScan AI</b><br>
         <b>AI Symptom Analysis & Risk Prediction</b><br><br>
         <p>An intelligent system that predicts health risks based on symptom analysis and medical data.</p>
-        <p><i>Technologies:</i> Deep Learning, Python, MongoDB</p>
       </td>
       <td width="50%">
-        <b><a href="https://github.com/Harini-Dasari/village-governance">Village Governance Platform</a></b><br>
+        <b>Village Governance Platform</b><br>
         <b>Digital Governance System</b><br><br>
         <p>A unified digital platform connecting citizens, officials, and administrators for efficient service management.</p>
-        <p><i>Technologies:</i> React, Node.js, MySQL</p>
       </td>
     </tr>
   </table>
