@@ -62,6 +62,10 @@
       <h4>Developer Tools</h4>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -70,25 +74,25 @@
 
 <h3 align="center">FEATURED PROJECTS</h3>
 
-### LifeBand Maa
-**AI-Based Maternal Health Monitoring System**
-A wearable AI solution that continuously monitors vital signs like blood pressure and ECG to keep pregnant women safe. It uses anomaly detection to instantly alert doctors and families to potential health risks through a remote live dashboard.
-
-### AI for Rural Health
-**Healthcare Risk Prediction Platform**
-An intelligent platform bridging the healthcare gap in rural communities by connecting patients with doctors through ASHA workers. It analyzes symptoms to predict health severity and recommends the best course of action.
-
-### Praja FIR
-**Voice-Based Digital FIR Filing System**
-A multilingual AI platform that revolutionizes complaint filing by allowing users to submit FIRs simply using their voice. It uses speech recognition and NLP to convert native spoken words into structured digital documents.
+### Village Governance Platform
+**Smart Digital Governance System**
+A full-stack digital governance platform designed to connect citizens, volunteers, officials, and administrators. It streamlines complaint management, scheme access, and citizen feedback to improve village governance.
 
 ### Safe Yathra
 **AI-Based Route Safety Analysis System**
 A smart travel companion that visualizes route safety levels directly on a map using machine learning. It classifies areas into safety zones based on location data and highlights essential nearby services for safe travel.
 
-### Village Governance Platform
-**Smart Digital Governance System**
-A full-stack digital governance platform designed to connect citizens, volunteers, officials, and administrators. It streamlines complaint management, scheme access, and citizen feedback to improve village governance.
+### Praja FIR
+**Voice-Based Digital FIR Filing System**
+A multilingual AI platform that revolutionizes complaint filing by allowing users to submit FIRs simply using their voice. It uses speech recognition and NLP to convert native spoken words into structured digital documents.
+
+### Symptom Scan AI
+**Healthcare Risk Prediction Platform**
+An intelligent platform bridging the healthcare gap in rural communities by connecting patients with doctors through ASHA workers. It analyzes symptoms to predict health severity and recommends the best course of action.
+
+### LifeBand Maa
+**AI-Based Maternal Health Monitoring System**
+A wearable AI solution that continuously monitors vital signs like blood pressure and ECG to keep pregnant women safe. It uses anomaly detection to instantly alert doctors and families to potential health risks through a remote live dashboard.
 
 ---
 
