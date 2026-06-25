@@ -25,20 +25,20 @@
 <table align="center" width="100%">
   <tr>
     <td width="60%">
-      <h3>🚀 About Me</h3>
+      <h3>ABOUT ME</h3>
       <p>I build <b>scalable full-stack applications</b> and <b>AI-powered systems</b> that solve real-world problems. Currently in my final year of Computer Science and Engineering at <b>RGUKT RK Valley</b>.</p>
       <p>My core strength lies in building complete <b>end-to-end products</b>—from frontend and backend APIs to databases, AI/ML models, and deployment.</p>
       <p><strong>Professional Focus:</strong> Driven by a passion for continuous learning, I thrive in fast-paced environments, actively compete in hackathons, and architect intelligent solutions that deliver meaningful impact.</p>
     </td>
     <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Tech Animation" width="90%">
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Abstract Tech Animation" width="90%">
     </td>
   </tr>
 </table>
 
 ---
 
-<h3 align="center">⚡ Technologies & Tools</h3>
+<h3 align="center">TECHNOLOGIES & TOOLS</h3>
 
 <div align="center">
 
@@ -70,7 +70,7 @@
 
 ---
 
-<h3 align="center">🛠️ Featured Projects</h3>
+<h3 align="center">FEATURED PROJECTS</h3>
 
 <div align="center">
   <table width="100%">
@@ -107,7 +107,7 @@
 
 ---
 
-<h3 align="center">🏆 Achievements</h3>
+<h3 align="center">ACHIEVEMENTS</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Winner-Aadhya_Hackathon_2K26-FFD700?style=for-the-badge&logo=codeforces&logoColor=black" />
@@ -119,7 +119,7 @@
 
 ---
 
-<h3 align="center">📈 GitHub Analytics</h3>
+<h3 align="center">GITHUB ANALYTICS</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harini-Dasari&show_icons=true&theme=radical&hide_border=true" alt="Harini's GitHub Stats" width="48%" />
